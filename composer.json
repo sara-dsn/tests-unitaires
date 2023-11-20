@@ -1,0 +1,17 @@
+{
+    "name": "sara/tests-unitaires",
+    "autoload": {
+        "psr-4": {
+            "Sara\\TestsUnitaires\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sara-dsn",
+            "email": "sabr.tdg@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^10.4"
+    }
+}
